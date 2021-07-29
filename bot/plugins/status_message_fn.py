@@ -7,6 +7,7 @@ import sys
 import time
 import traceback
 
+from pyrogram import Client, filters
 from bot.config import Messages
 from bot.dinmamoc import Commandi
 
