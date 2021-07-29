@@ -26,6 +26,6 @@ if __name__ == "__main__":
         parse_mode="markdown",
         workdir=Config.DOWNLOAD_DIRECTORY
     )
-    LOGGER.info('Starting Bot !')
+    LOGGER.info('Starting Bot ! ℍ𝕩𝔹𝕠𝕥𝕤')
     app.run()
-    LOGGER.info('Bot Stopped !')
+    LOGGER.info('Bot Stopped ! ℍ𝕩𝔹𝕠𝕥𝕤')
