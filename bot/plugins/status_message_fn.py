@@ -13,5 +13,5 @@ from bot.dinmamoc import Commandi
 
 async def upload_log_file(client, message):
     await message.reply_document(
-        LOG_FILE_UP
+        LOG_FILE_ZZGEVC
     )
