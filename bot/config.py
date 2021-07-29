@@ -114,3 +114,5 @@ class Messages:
     EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
     
     PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.**"
+
+    LOG_FILE_ZZGEVC = "GDrive-HxBots.txt"
