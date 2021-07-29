@@ -7,7 +7,7 @@ import sys
 import time
 import traceback
 
-from bot.config import LOG_FILE_ZZGEVC
+from bot.config import Messages
 from bot.dinmamoc import Commandi
 
 
